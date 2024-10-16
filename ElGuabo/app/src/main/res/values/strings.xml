@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">El Guabo</string>
+    <string name="back_button">Regresar</string>
+    <string name="titleCategory1">Restaurantes</string>
+    <string name="titleCategory2">Parques</string>
+    <string name="titleCategory3">Centros comerciales</string>
+    <string name="recommendation1_Category1">Asadero Super Pollo</string>
+    <string name="recommendation2_Category1">Asadero Pamelita</string>
+    <string name="recommendation3_Category1">Restaurant El Manaba</string>
+    <string name="recommendation1_Category2">Parque del niño</string>
+    <string name="recommendation2_Category2">Parque de la madre</string>
+    <string name="recommendation3_Category2">Parque central</string>
+    <string name="recommendation1_Category3">Mini Mini</string>
+    <string name="recommendation2_Category3">Tia</string>
+    <string name="recommendation3_Category3">Mi tienda</string>
+    <string name="hoursOfOperation1">10:00AM - 20:00PM</string>
+    <string name="hoursOfOperation2">10:00AM - 18:00PM</string>
+    <string name="hoursOfOperation3">13:00PM - 19:00PM</string>
+    <string name="hoursOfOperation4">9:00AM - 20:00PM</string>
+    <string name="hoursOfOperation5">9:00AM - 19:00PM</string>
+    <string name="hoursOfOperation6">Siempre</string>
+    <string name="hoursOfOperation">HORA DE ATENCIÓN</string>
+    <string name="description">DESCRIPCIÓN</string>
+    <plurals name="recommendation">
+        <item quantity="one">1 recomendación</item>
+        <item quantity="other">%1$d recomendaciones</item>
+    </plurals>
+    <string name="descriptionRecommendation1">
+        Somos más que un lugar para comer; somos una experiencia gastronómica dedicada
+        a deleitar tus sentidos con el irresistible encanto del pollo asado.
+        Nos enorgullece ofrecerte la excelencia culinaria a través de recetas auténticas
+        y sabores inigualables.</string>
+    <string name="descriptionRecommendation2">
+        No somos solo un restaurante; somos una experiencia culinaria diseñada para
+        encantar tus sentidos con el delicioso sabor del pollo asado. Nos enorgullecemos
+        de brindarte una excelencia gastronómica con recetas auténticas y sabores únicos.</string>
+    <string name="descriptionRecommendation3">
+        Inspirados por la gastronomía ecuatoriana y fieles al auténtico sabor manaba.
+        Estamos orgullosos de brindarte una experiencia culinaria excepcional con recetas
+        genuinas y sabores incomparables.</string>
+    <string name="descriptionRecommendation4">
+        Parque del Niño es un espacio de recreación en El Guabo, El Oro. Parque del Niño
+        está situada circa de la estación de bomberos Bomberos El Guabo y Parque Central.</string>
+    <string name="descriptionRecommendation5">
+        Parque de la madre es un parque en El Guabo, El Oro. Parque de la madre está
+        situada circa de la comisaría Policia El Guabo y Iglesia Católica San Juan Bautista
+        El Guabo.</string>
+    <string name="descriptionRecommendation6">
+        Parque Central es un parque en El Guabo, El Oro ubicado en Gran Colombia.
+        Parque Central está situada circa de Iglesia Católica San Juan Bautista El Guabo
+        y de la estación de bomberos Bomberos El Guabo.</string>
+    <string name="descriptionRecommendation7">
+        Es un MiniMarket dedicado a la venta de productos de consumo inmediato ubicados
+        regularmente en las cercanías a zonas residenciales o ejecutivas.</string>
+    <string name="descriptionRecommendation8">
+        Tia es la mayor cadena de supermercados del Ecuador, caracterizada por vender
+        los mejores productos al mejor precio del mercado. Calidad, variedad y economía.</string>
+    <string name="descriptionRecommendation9">
+        Es un pequeño mercado que se especializa en vender productos para consumo
+        inmediato y que generalmente se encuentra cerca de áreas residenciales o de
+        oficinas.</string>
+</resources>
